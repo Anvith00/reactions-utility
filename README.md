@@ -191,7 +191,7 @@ The script defines several constants and variables that control its behavior:
 2.  **Navigate to the `project-root` directory** (the one containing `reactionScript.ts` and `tsconfig.json`) in your terminal.
 3.  **Compile the TypeScript script:**
     ```bash
-    tsc reactionScript.ts
+    npx tsc reactionScript.ts
     ```
     This command compiles `reactionScript.ts` into `reactionScript.js` within the `dist/` folder, as configured by your `tsconfig.json`.
 4.  **Run the compiled JavaScript file:**
