@@ -1,12 +1,12 @@
 {
-  "name": "ceptor",
+  "name": "reactions-utility",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A utility to capture and store reactions from an online platform.",
   "devDependencies": {
     "@playwright/test": "^1.54.1",
     "@types/node": "^24.1.0"
