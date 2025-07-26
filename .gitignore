@@ -1,0 +1,16 @@
+
+# Playwright folders
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Node.js specific folders
+node_modules/
+dist
+
+# Project specific
+waitForLogin.ts.bak
+
+# Dotenv
+.env
