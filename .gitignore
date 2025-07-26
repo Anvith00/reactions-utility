@@ -14,3 +14,7 @@ waitForLogin.ts.bak
 
 # Dotenv
 .env
+
+# Extras
+# asdf version manager
+.tool-versions
