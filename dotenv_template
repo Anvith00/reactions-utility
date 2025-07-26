@@ -4,4 +4,3 @@ LINKEDIN_PASSWORD=
 LINKEDIN_LOGIN_URL=https://www.linkedin.com/login
 LINKEDIN_FEED_URL=https://www.linkedin.com/feed/update/urn:li:activity:7349331636636831745
 # https://www.linkedin.com/feed/update/urn:li:activity:7353999467181694977
-# LINKEDIN_LAZY_LOAD_API_REGEX=
